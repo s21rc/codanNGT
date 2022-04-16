@@ -25,6 +25,8 @@ inside Setup():
 inside differrent callback functions:
 NGT.update(freq_of_first_vfo, freq_of_second_vfo, sideband_mode, split_Active, active_VFO);
 
+DO NOT OPERATE CROSS BAND as I have not tested yet if the LPF relay switches with different band TX or not.
+
 Planned future work:
 
 1. Analyze the Serial data beetween microphone and RF unit to control other functions.
