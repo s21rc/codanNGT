@@ -1,0 +1,1 @@
+Put the "codanNGT" folder in your Arduino "libraries" folder.
